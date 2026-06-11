@@ -1,5 +1,5 @@
 // ============================
-// Bhakti Bows JavaScript
+// The Bhakti BowBerrys JavaScript
 // ============================
 
 // Newsletter Form
@@ -12,7 +12,7 @@ newsletterForm.addEventListener("submit", function(e){
 
 e.preventDefault();
 
-alert("🎉 Thank you for subscribing to Bhakti Bows!");
+alert("🎉 Thank you for subscribing to The Bhakti BowBerrys!");
 
 newsletterForm.reset();
 

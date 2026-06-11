@@ -429,16 +429,16 @@ gap:10px;
 font-weight:600;
 }
 
-/* ================= CULTURE PAGE ================= */
+/* ================= About Us PAGE ================= */
 
-.culture-section,
+.About Us-section,
 .founder-section,
 .mission-section,
 .process-section{
 padding:100px 8%;
 }
 
-.culture-content,
+.About Us-content,
 .founder-card{
 display:flex;
 align-items:center;
@@ -446,18 +446,18 @@ gap:50px;
 flex-wrap:wrap;
 }
 
-.culture-image,
+.About Us-image,
 .founder-img{
 flex:1;
 }
 
-.culture-image img,
+.About Us-image img,
 .founder-img img{
 width:100%;
 border-radius:25px;
 }
 
-.culture-text,
+.About Us-text,
 .founder-info{
 flex:1;
 }
